@@ -146,6 +146,3 @@ B.Tech Computer Engineering, J.C. Bose University of Science & Technology, YMCA,
 
 ---
 
-## 📄 License
-
-This project is licensed under the terms of the [LICENSE](LICENSE) file.
